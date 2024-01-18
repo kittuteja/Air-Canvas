@@ -8,6 +8,7 @@ Air Canvas is an interactive drawing project using color detection and motion tr
 - **3 Drawing Logic  :** When the marker or hand movements are detected, the system translates those movements into drawing commands on a virtual canvas. This involves updating the                         canvas with each frame based on the tracked position.
 - **4 Canvas Display :** The virtual canvas is displayed in real-time, allowing users to see their drawings as they create them. The canvas could be a window on a computer screen or                        projected onto a larger surface.
 - **5 Interactive Features:** Users can interact with the Air Canvas through additional features, such as changing colors, adjusting brush thickness, or even selecting different                                 drawing tools.
+
 **User Interaction:**
 
 - **Color Selection :** Users can change the drawing color by interacting with a color palette or by pointing the marker to a specific color region in the environment.
