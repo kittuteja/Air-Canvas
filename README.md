@@ -3,17 +3,17 @@ Air Canvas is an interactive drawing project using color detection and motion tr
 
 **Key Components:**
 
-**1 Camera Input   :**   The project utilizes a camera (such as a webcam) to capture live video input. This video feed serves as the basis for tracking movements.
-**2 Color Detection:** The system identifies a specific color (marker) or hand movements in the video feed to track the user's input. Color thresholds are used to distinguish the                         drawing tool from the background.
-**3 Drawing Logic  :** When the marker or hand movements are detected, the system translates those movements into drawing commands on a virtual canvas. This involves updating the                         canvas with each frame based on the tracked position.
-**4 Canvas Display :** The virtual canvas is displayed in real-time, allowing users to see their drawings as they create them. The canvas could be a window on a computer screen or                        projected onto a larger surface.
-**5 Interactive Features:** Users can interact with the Air Canvas through additional features, such as changing colors, adjusting brush thickness, or even selecting different                                 drawing tools.
+- **1 Camera Input   :**   The project utilizes a camera (such as a webcam) to capture live video input. This video feed serves as the basis for tracking movements.
+- **2 Color Detection:** The system identifies a specific color (marker) or hand movements in the video feed to track the user's input. Color thresholds are used to distinguish  the                         drawing tool from the background.
+- **3 Drawing Logic  :** When the marker or hand movements are detected, the system translates those movements into drawing commands on a virtual canvas. This involves updating the                         canvas with each frame based on the tracked position.
+- **4 Canvas Display :** The virtual canvas is displayed in real-time, allowing users to see their drawings as they create them. The canvas could be a window on a computer screen or                        projected onto a larger surface.
+- **5 Interactive Features:** Users can interact with the Air Canvas through additional features, such as changing colors, adjusting brush thickness, or even selecting different                                 drawing tools.
 **User Interaction:**
 
-**Color Selection :** Users can change the drawing color by interacting with a color palette or by pointing the marker to a specific color region in the environment.
-**Brush Thickness :** The thickness of the drawing tool can be adjusted, providing flexibility in creating various artistic effects.
-**Eraser Mode     :** Some implementations include an eraser mode, allowing users to erase specific parts of their drawings.
-**Gesture Controls:** Advanced versions might incorporate gesture controls for additional functionalities, such as undo, redo, or switching between drawing tools.
+- **Color Selection :** Users can change the drawing color by interacting with a color palette or by pointing the marker to a specific color region in the environment.
+- **Brush Thickness :** The thickness of the drawing tool can be adjusted, providing flexibility in creating various artistic effects.
+- **Eraser Mode     :** Some implementations include an eraser mode, allowing users to erase specific parts of their drawings.
+- **Gesture Controls:** Advanced versions might incorporate gesture controls for additional functionalities, such as undo, redo, or switching between drawing tools.
 
 **ALGORITHMS:**
 
@@ -53,7 +53,7 @@ These algorithms collectively enable the Air Canvas to track user movements, int
 
 **Applications:**
 
-**Artistic Expression:** Air Canvas provides a unique and engaging platform for artistic expression, enabling users to create digital artwork in an intuitive and immersive manner.
-**Education:** It can be used as an educational tool to teach basic principles of computer vision and image processing, making learning more interactive and fun.
-**Entertainment:** Air Canvas can serve as an entertaining interactive installation in public spaces, events, or museums, captivating audiences and encouraging participation.
-**Therapeutic Use:** The project could be adapted for therapeutic purposes, allowing users to engage in a creative and stress-relieving activity.
+- **Artistic Expression:** Air Canvas provides a unique and engaging platform for artistic expression, enabling users to create digital artwork in an intuitive and immersive manner.
+- **Education:** It can be used as an educational tool to teach basic principles of computer vision and image processing, making learning more interactive and fun.
+- **Entertainment:** Air Canvas can serve as an entertaining interactive installation in public spaces, events, or museums, captivating audiences and encouraging participation.
+- **Therapeutic Use:** The project could be adapted for therapeutic purposes, allowing users to engage in a creative and stress-relieving activity.
